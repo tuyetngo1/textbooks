@@ -1,0 +1,108 @@
+//- ============================================================================
+//- Mathigon | Linear Algebra Content
+//- (c) 2016 Mathigon
+//- ============================================================================
+
+
+include ../mixins
+
+- var counts = {}
+- var countmax = 1
+mixin count(key)
+  if key in counts
+    a link
+
+
+
+//- ---------------------------------------------------------------------------
+//- ---------------------------------------------------------------------------
+
+section
+  +intro
+
+  h2 Definitions and Properties
+
+  p In the following, #[TeX \Bbb{F}] is any field such as #[TeX \Bbb{R}], #[TeX \Bbb{C}], #[TeX \Bbb{Q}] or Z/pZ for primes #[TeX p].
+
+  .box
+    .box-title: h3 1.1 Definition: Vector Spaces
+    .box-body
+      p A vector space (#[em V],+,⋅) over a field #[TeX F] is a set #[em V] together with two operations
+
+      p that satisfy the following axioms:
+
+  p We usually just write V for (V,+,⋅).
+  p Note that axioms (A1) – (A4) say that (V,+) is an abelian group with additive identity 0.
+
+  p Example 1
+  p For n ∈ N let Fn = space of n-tuples (a1,…,an) with ai ∈ F. We define componentwise operations by (a1,…,an) + (b1,…,bn) = (a1 + b1,…,an + bn) and λ⋅(a1,…,an) = (λa1,…, λan).
+
+  p Example 2
+  p For n ∈ N, let Fn = space of n-tuples (a1,…,an) with ai ∈ F. We define componentwise operations by (a1,…,an) + (b1,…,bn) = (a1 + b1,…,an + bn) and λ⋅(a1,…,an) = (λa1,…, λan).
+
+  p It is easy to check the eight axioms in all of these cases. Note that example 1 is a special case of example 2 with |X| = n.
+
+  .box
+    .box-title: h3 1.2 Lemma
+    .box-body
+      p Let V be a vector space over a field F. Let λ ∈ F and v ∈ V. Then
+      ol
+        li 0 · v = 0,  · 0 = 0;
+        li −v = (−1) · v;
+        li if v = 0 then either  = 0 or v = 0.
+
+
+section
+
+  p Equation tests
+
+  p.text-center: TeX.
+    \frac{\text{d}x}{1 + \frac{1}{x^2 - \frac{1}{x}}} + \sqrt{x^{2^2}} \div \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2} + \lim_{a \rightarrow b} \left( \frac{-b\pm\sqrt{b^2-4ac}}{2a} \right)/\int_{a}^{b}{\sin(\alpha) d\alpha}
+
+
+  p Finally, while display equations look good for a page of samples, the ability to mix math and text in a paragraph is also important. This expression #[TeX \sqrt{3x-1}+(1+x)^2] is an example of an inline equation.
+
+  p The Cauchy-Schwarz Inequality
+
+  p.text-center: TeX.
+    \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+
+  p A Cross Product Formula
+
+  p.text-center: TeX.
+    \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+    \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+    \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+    \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
+    \end{vmatrix}
+
+  p The probability of getting \(k\) heads when flipping \(n\) coins is
+
+  p.text-center: TeX.
+    P(E)   = {n \choose k} p^k (1-p)^{ n-k}
+
+  p An Identity of Ramanujan
+
+  p.text-center: TeX.
+    \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
+    1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
+    {1+\frac{e^{-8\pi}} {1+\ldots} } } }
+
+  p Maxwell’s Equations
+
+  p.text-center: TeX.
+    \begin{aligned}
+    \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
+    \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
+    \nabla \cdot \vec{\mathbf{B}} & = 0
+    \end{aligned}
+
+
+  h3 Remarks
+
+  ol
+    li Axioms (A1) – (A4) say that (V,+) is an abelian group.
+    li We usually just write V for (V,+,⋅).
+    li V is a real/complex vector space is F = respectively.
+
+
