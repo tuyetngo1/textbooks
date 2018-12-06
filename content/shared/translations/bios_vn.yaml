@@ -1,373 +1,334 @@
 appel:
   name: Kenneth Appel
   bio: |
-    __Kenneth Appel__ (1932 – 2013) was an American mathematician, known for his
-    proof of the Four Colour Theorem with Wolfgang Haken.
+    __Kenneth Appel__ (1932 – 2013) là nhà toán học người Mỹ, được biết đến bởi việc 
+    chứng minh Định lý Bốn Màu cùng với Wolfgang Haken.
 
-    In recognition, he and Haken received the Fulkerson Prize of the American
-    Mathematical Society.
+    Ông và Haken được nhận giải Fulkerson của Hội Toán học Mỹ.
 
-    Appel studied at Queens College, New York, and the University of Michigan.
-    He taught at the University of Illinois, and the University of New
+    Appel từng học tại Queens College, New York, và trường Đại học Michigan.
+    Ông đã giảng dạy tại trường Đại học Illinois và trường Đại học New
     Hampshire.
 
 archimedes:
   name: Archimedes
   bio: |
-    __Archimedes__ (c. 287 – c. 212 BC) was an ancient Greek scientist and
-    engineer, and one of the greatest mathematicians of all time. He discovered
-    many concepts of calculus, and worked in geometry, analysis and mechanics.
+    __Archimedes__ (c. 287 – c. 212 BC) là nhà khoa học và kỹ sư thời Hy Lạp cổ,
+    và là một trong những nhà toán học vĩ đại nhất của mọi thời đại. Ông khám phá lý thuyết về
+    các phép tính, và nghiên cứu hình học, phân tích và cơ học.
 
-    While taking a bath, Archimedes discovered a way to determine the volume of
-    irregular objects using the amount of water they displaced when submerged.
-    He was so excited by this discovery that he run out on the street, still
-    undressed, yelling _“Eureka!”_ (Greek for _“I have found it!”_).
+    Một lần trong khi đang tắm, Archimedes phát hiện ra một cách để xác định thể tích của một khối 
+    phức tạp sử dụng lượng nước vật đó thay thế khi ngập trong nước. 
+    Ông đã phấn khích về khám phá này đến nỗi ông đã chạy ra đường không một mảnh vải che thân
+    và reo lên _“Eureka!”_ (tiếng Hy Lạp nghĩa là _“Tìm thấy rồi!”_).
 
-    As engineer he built ingenious defence machines during the siege of his home
-    city Syracuse in Sicily. After two years, the Romans finally managed to
-    enter and Archimedes as killed. His last words were _“Do not disturb my
-    circles”_ – which he was studying at the time.
+    Là một kỹ sư, ông đã xây dựng một cách tài tình những chiếc máy phòng hộ trong thời gian
+    quê hương Ông bị chiếm đóng ở Syracuse ở Sicily. Sau hai năm, người Romans cuối cùng mới 
+    vào được và giết chết Archimedes. Câu nói cuối cùng của Ông là _“ Đừng đụng vào mấy vòng tròn của tôi!"
+    là những gì Ông đang nghiên cứu lúc đó.
 
 collatz:
   name: Lothar Collatz
-  bio: __Lothar Collatz__ (1910 – 1990) was a German mathematician working on
-    differential equations and optimisation problems. The _Collatz conjecture_
-    or `3x+1` problem is named after him – and still unsolved.
+  bio: __Lothar Collatz__ (1910 – 1990) là nhà Toán học Đức nghiên cứu phương trình vi phân
+    và các bài toán về tối ưu hóa. _Giả định Collatz_
+    hay bài toán `3x+1` được đặt tên theo Ông – và vẫn chưa có ai giải được.
 
 conway:
   name: John Horton Conway
   bio: |
-    __John Horton Conway__ (born 1937) is a British matematician and currently
-    Professor Emeritus at Princeton University.
+    __John Horton Conway__ (born 1937)  là một nhà Toán học của Anh và hiện tại là 
+    Giáo sư Emeritus tại trường Đại học Princeton.
 
-    He is best known for inventing “Conway’s Game of Life”, a _cellular
-    automaton_ with fascinating properties. He explored the underlying
-    mathematics of everyday objects like knots and games, as well as contibuting
-    to group theory, number theory and many other areas of mathematics.
+    Ông được biết đến bởi phát minh “Trờ chơi cuộc sống của Conway" một mô hình _tự động hóa tế bào 
+    (cellular automaton)_ với nhiều đặc tính thú vị. Ông khám phá những quy tắc toán học đằng sau những
+    vật dụng hằng ngày như nút thắt và các trò chơi, đồng thời ông cũng góp phần rất lớn vào lý thuyết nhóm,
+    lý thuyết số và nhiều mặt khác trong toán học.
 
 dirac:
   name: Paul Dirac
   bio: |
-    __Paul Dirac__ (1898 – 1972) was an English theoretical physicist, who
-    shared the 1933 Nobel Prize with Erwin Schrödinger. Dirac was one of the
-    pioneers of Quantum Mechanics, formulated the famous _Dirac equation_ and
-    first predicted the existence of antimatter.
+    __Paul Dirac__ (1898 – 1972) là nhà lý thuyết Vật lý người Anh, người 
+    đồng đoạt giải Nobel năm 1933 cùng với Erwin Schrödinger. Dirac là một 
+    trong những người đi tiên phong về Quantum Mechanics. Ông thiết lập phương trình nổi tiếng là _phương trình Dirac_ 
+    và là người đầu tiên dự đoán sự hiện diện của phản vật chất (antimatter).
 
-    He taught at Cambridge University, before moving to America. Dirac was
-    famously shy and, according to Einstein, _“balancing on the dizzying path
-    between genius and madness”_.
+    Ông đã từng giảng dạy tại trường Đại học Cambridge, trước khi chuyển đến sống ở Mỹ.  
+    Dirac nổi tiếng là rất ngại giao tiếp, và theo Eistein, Dirac là người luôn 
+    _“phải cân bằng giữa thiên tài và loạn trí trên con đường chóng mặt”_.
 
 eratosthenes:
   name: Eratosthenes of Cyrene
-  bio: __Eratosthenes__ (c. 276 BC – c. 195 BC) was a Greek mathematician,
-    geographer, astronomer and poet. He first calculated the circumference of
-    the Earth and the distance from Earth to the sun, and he drew some of the
-    first world maps. He also discovered the Sieve of Eratosthenes, an efficient
-    way to determine which numbers are prime.
-
+  bio: __Eratosthenes__ (c. 276 BC – c. 195 BC) là một nhà Toán học người Hy Lạp,
+    nhà địa lý, thiên văn học và còn là một nhà thơ. Ông là người đầu tiên tính ra chu vi 
+    của Trái đất và khoảng cách giữa Trái đất và mặt trời, Ông cũng là người vẽ những bản đồ thế giới
+    đầu tiên. Ông khám phá ra Sieve của Eratosthenes, một cách xác định số nguyên tố.
+    
 escher:
   name: M. C. Escher
   bio: |
-    __Maurits Cornelis Escher__ (1898 – 1972) was a Dutch artist who created
-    sketches, woodcuts and lithographs of mathematically inspired objects and
-    shapes: including polyhedra, tessellations and impossible shapes. He
-    graphically explored concepts like symmetry, infinity, perspective and
-    non-euclidean geometry.
+    __Maurits Cornelis Escher__ (1898 – 1972) là một nghệ sĩ người Hà Lan là người vẽ, 
+    điêu khắc và in thạch bản các khối hình học: bao gồm khối đa diện, lưới tổ ong và 
+    nhiều hình không tưởng. Ông là người nghiên cứu về mặt đồ thị các khái niệm về đối xứng,
+    vô định, phối cảnh (perspective) và hình học phi-Euclid (non-euclidean geometry).
 
 euclid:
   name: Euclid of Alexandria
-  bio: __Euclid of Alexandria__ (around 350 BCE) was a Greek mathematician and
-    is often called the _father of geometry_. He published a book _Elements_
-    that first introduced Euclidean geometry and contained many important proofs
-    in geometry and number theory. It was the main mathematics textbook until
-    the 19th century. He taught mathematics in Alexandria, but very little else
-    is known about his life.
+  bio: __Euclid của Alexandria__ (vào những năm 350 trước Công nguyên) là một nhà Toán học
+  Hy Lạp và thường được gọi là _cha đẻ của hình học_. Ông đã xuất bản cuốn sách _Elements_
+    cuốn sách đầu tiên giới thiệu về hình học Euclid và có rất nhiều minh chứng quan trọng
+    trong hình học và lý thuyết số. Đó là cuốn sách toán học chính suốt thời gian trước thế kỷ 19.
+    Ông dạy Toán ở Alexandria và không ai biết thông tin gì nhiều về cuộc sống của Ông. 
 
 euler:
   name: Leonhard Euler
   bio: |
-    __Leonhard Euler__ (1707 – 1783) was one the greatest mathematicians of all
-    times. His work spans all areas of mathematics, and he wrote 80 volumes of
-    research.
+    __Leonhard Euler__ (1707 – 1783) là một trong những nhà Toán học vĩ đại của mọi thời đại.
+    Các công trình của Ông trải rộng các mặt khác nhau trong lĩnh vực Toán học,
+    và ông đã viết 80 bản nghiên cứu khác nhau. 
+    
+    Euler được sinh ra ở Thụy Sĩ và học ở Basel, nhưng sống hầu hết thời gian còn lại 
+    ở Berlin, Prussia, and St. Petersburg, Russia.
 
-    Euler was born in Switzerland and studied in Basel, but lived most of his
-    life in Berlin, Prussia, and St. Petersburg, Russia.
-
-    Euler invented much of the modern mathematical terminology and notation, and
-    made important discoveries in calculus, analysis, graph theory, physics,
-    astronomy, and many other topics.
+    Euler phát minh nhiều thuật ngữ và ký hiệu toán học hiện đại, và có những khám phá
+    quan trọng trong các phép tính, phân tích, lý thuyết đồ thị, vật lý, thiên văn và 
+    nhiều chủ đề khác. 
 
 fermat:
   name: Pierre de Fermat
   bio: |
-    __Pierre de Fermat__ (1607 – 1665) was a French mathematician and Lawyer. He
-    was one of the early pioneers of calculus, as well as working on number
-    theory, probability, geometry and optics.
-
-    In 1637, he wrote a short note in the margin of one of his textbooks,
-    claiming that the equation `a^n + b^n = c^n` has no integer solutions for
-    `n > 2`, and that he had a “marvelous proof, which this margin is too narrow
-    to contain”. This became known as _Fermat's Last Theorem_, and became one of
-    the most famous unsolved problems in mathematics – until it was finally
-    proven in 1994.
+    __Pierre de Fermat__ (1607 – 1665) là một nhà Toán học và Luật gia của Pháp. 
+    Ông là một trong những người đi tiên phong về các phếp tính, cũng như làm việc với 
+    lý thuyết số, xác suất, hình học và quang học. 
+    
+    Trong năm 1637, Ông viết một đoạn ghi chú nhỏ bên lề của một cuốn sách của Ông, 
+    nhận xét rằng phương trình `a^n + b^n = c^n` không có kết quả số nguyên cho 
+    `n > 2`, và Ông có “cách chứng minh tuyệt vời, mà cái lề này không đủ chỗ để ghi”.
+    Bài toán này được biết đến với cái tên _Định lý cuối cùng của Fermat_, và trở thành một trong
+    những bài toán không có lời đáp nổi tiếng trong Toán học - cho tới năm 1994 cuối cùng mới được
+    chứng minh.
 
 fibonacci:
   name: Leonardo Pisano (Fibonacci)
   bio: |
-    __Leonardo Pisano__, commonly known as __Fibonacci__ (1175 – 1250) was an
-    Italian mathematician. He is best known for the number sequence named after
-    him: 1, 1, 2, 3, 5, 8, 13, …
+    __Leonardo Pisano__, được biết đến với cái tên __Fibonacci__ (1175 – 1250) là một nhà Toán học 
+    người Ý. Ông được biết đến nhiều nhất bởi dãy số được đặt tên theo Ông: 1, 1, 2, 3, 5, 8, 13, …
 
-    Fibonacci is also responsible for popularising the Arabic numerals (0, 1, 2,
-    3, 4, …) in Europe, which was still using Roman numerals (I, V, X, D, …) in
-    the 12th century AD. He explained the decimal system in a book called "Liber
-    Abaci", a practical textbook for merchants.
+    Fibonacci cũng là người phổ biến số Ả Rập (0, 1, 2, 3, 4, …) ở Châu Âu,
+    khi đó vẫn dùng chữ số La Mã (I, V, X, D, …) trong thế kỷ 12 Sau CN
+    Ông giải thích về hệ thống số thập phân trong cuốn sách "Liber
+    Abaci", một cuốn sách phổ biến thực tế dành cho thương nhân.
 
 fuller:
   name: Buckminster Fuller
-  bio: __Richard Buckminster "Bucky" Fuller__ (1895 – 1983) was an American
-    architect, designer and inventor. He is famous for constructing _geodesic
-    dome_ – large, spherical structures. Similar looking Carbon molecules, the
-    _fullerenes_, were later named after him.
+  bio: __Richard Buckminster "Bucky" Fuller__ (1895 – 1983) là kiến trúc sư người Mỹ,
+  là nhà thiết kế và phát minh. Ông nổi tiếng về kiến trúc _ vòm trắc địa (geodesic
+    dome)_ – kết cấu mái vòm hình cầu lớn. Tương tự, cấu trúc các phân tử Carbon _fullerenes_, 
+    cũng được đặt theo tên Ông.
 
 gauss:
   name: Carl Friedrich Gauss
   bio: |
-    __Carl Friedrich Gauss__ (1777 – 1855) was arguably the greatest
-    mathematician of all times. He made groundbreaking discoveries in just about
-    every field of mathematics, from algebra and number theory to statistics,
-    calculus, geometry, geology and astronomy.
+    __Carl Friedrich Gauss__ (1777 – 1855) được tranh cãi là một trong những nhà Toán học 
+    nổi tiếng nhất của mọi thời đại. Ông có những khám phá chấn động toàn bộ lĩnh vực Toán học,
+    từ đại số, đến lý thuyết số, thống kê, phép tính, hình học, địa chất học và thiên văn học. 
 
-    According to legend, he corrected a mistake in his father‘s accounting at
-    the age of 3, and found a way to easily add up all integers from 1 to 100 at
-    the age of 8. He made his first important discoveries while still a
-    teenager, and later tutored many other famous mathematicians as Professor.
+    Theo truyền thuyết, Ông có khả năng sửa các phép tính sai của Cha Ông từ khi 
+    lên 3 tuổi, và tìm cách công dễ dàng các con số từ 1 đến 100 từ khi Ông 8 tuổi.
+    Ông có những khám phá quan trọng từ còn là một thiếu niên, và sau đó là thầy hướng dẫn
+    cho nhiều nhà Toán học và Giáo sư nổi tiếng. 
 
 goldbach:
   name: Christian Goldbach
-  bio: __Christian Goldbach__ (1690 – 1764) was a Prussian mathematician and
-    contemporary of Euler, Leibniz and Bernoulli. He was tutor of Russian Tsar
-    Peter II, and is remembered for his “Goldbach Conjecture“.
+  bio: __Christian Goldbach__ (1690 – 1764) là một nhà Toán học người Phổ cùng thời với 
+  Euler, Leibniz và Bernoulli. Ông là thầy của Tsar
+    Peter II ở Nga, và được nhớ đến với “Giả định Goldbach“ (Goldbach Conjecture).
 
 guthrie:
   name: Francis Guthrie
-  bio: __Francis Guthrie__ (1831 – 1899) was a South African botanist and
-    mathematician, who first stated the Four Colour Problem in 1852. He was a
-    student of Augustus De Morgan, one of the greatest British mathematicians.
-    In addition to being a mathematics professor and teacher, Guthrie worked as
-    a lawyer and did research in solar power and aeronautics.
+  bio: __Francis Guthrie__ (1831 – 1899) là nhà thực vật học toán học người Nam Phi,
+   người đầu tiên đưa ra Bài toán Bốn Màu vào năm 1852. Ông là một trong những học trò của 
+   Augustus De Morgan, một trong những nhà toán học nổi tiếng người Anh.
+    Ngoài công việc là giáo viên và giáo sư Toán học, Guthrie còn là một luật sư và nghiên cứu
+    về năng lượng mặt trời và hàng không học.
 
 haken:
   name: Wolfgang Haken
-  bio: __Wolfgang Haken__ (born 1928) is a German mathematician, known for his
-    proof the _Four Colour Theorem_ with Kenneth Appel. In recognition, he and
-    Appell received the Fulkerson Prize of the American Mathematical Society. In
-    1990, Haken became a member of the Center for Advanced Study at the
-    University of Illinois, where he is now an Emeritus Professor.
+  bio: __Wolfgang Haken__ (born 1928) là nhà Toán học người Đức, 
+  được biết đến là người chứng minh _Định lý Bốn Màu_ cùng với Kenneth Appel. Ông và 
+  Appell nhận giải Fulkerson Prize từ Hội toán học Mỹ. Năm 1990, 
+  Haken trở thành thành viên của Trung tâm Nghiên cứu Tiên Tiến của trường Đại học 
+  Illinois, nơi Ông hiện là Giáo sư Emeritus.
 
 halley:
   name: Edmond Halley
-  bio: __Edmond Halley__ (1656 – 1742) was an English mathematician and
-    physicist, and the second _Astronomer Royal_. He calculated the orbit of
-    Halley’s Comet, which is named after him.
-
-jefferson:
+  bio: __Edmond Halley__ (1656 – 1742) là một nhà Toán học và Vật lý học người Anh, 
+  và là _Nhà thiên văn học Hoàng gia_ thứ hai. Ông đã tính được quỹ đạo của Sao chổi Halley, được đặt theo tên Ông.
+  
+  jefferson:
   name: Thomas Jefferson
   bio: |
-    __Thomas Jefferson__ (1743 – 1826), was one of the Founding fathers of the
-    United States, their third president, and the principal author of the
-    Declaration of Independence.
+    __Thomas Jefferson__ (1743 – 1826), là một trong những người sáng lập 
+    Hợp chủng quốc Hoa Kỳ, là tổng thống thứ 3, và là tác giả chính của Tuyên ngôn Độc lập.
 
-    In addition to his work in politics, he studied mathematics, horticulture,
-    mechanics, and worked as an architect. After retiring from public office,
-    Jefferson founded the University of Virginia.
+    Ngoài công việc về chính trị, Ông học Toán, nông nghiệp, cơ học và là một kiến trúc sư. 
+    Sau khi kết thúc nhiệm kỳ, Ông đã thành lập trường Đại học Virginia. 
 
 karinthy:
   name: Frigyes Karinthy
-  bio: __Frigyes Karinthy__ (1887 – 1938) was a Hungarian author, poet and
-    journalist. He is best known for the 1929 short story “Chains”, which first
-    introduced the concept of _six degrees of separation_.
+  bio: __Frigyes Karinthy__ (1887 – 1938) là tác giả người Hungaria, là nhà thơ và nhà báo. 
+  Ông được biết đến với truyện ngắn "Chains" năm 1929, giới thiệu lần đầu tiên khái niệm 
+  _ sáu độ cách_ (six degrees of separation).
 
 khayyam:
   name: Omar Khayyam
-  bio: __Omar Khayyam__ (عمر خیّام‎, 1048 – 1131) was a Persian mathematician,
-    astronomer and poet. He managed to classify and solve all cubic equations,
-    and found new ways to understand Euclid's _parallel axiom_. Khayyam also
-    designed the _Jalali calendar_, a precise solar calendar that is still used
-    in some countries.
+  bio: __Omar Khayyam__ (عمر خیّام‎, 1048 – 1131) là nhà toán học, thiên văn học và nhà thơ người 
+  Ba Tư. Ông đã phân loại và giải tất cả các phương trình bậc 3, và tìm ra các cách mới để hiểu 
+  _tiên đề song song_ của Euclid. Khayyam cũng thiết kế _ Lịch Jalali_, lịch mặt trời chính xác vẫn còn đang được sử dụng ở nhiều nước.
 
 milgram:
   name: Stanley Milgram
-  bio: __Stanley Milgram__ (1933 – 1984) was a famous social psychologist. He is
-    best known for experiments on _obedience_, testing how willing adults are to
-    follow orders, even when hurting others, and for the _small-world
-    experiment_, which tests the degree of connectedness of societies.
-
+  bio: __Stanley Milgram__ (1933 – 1984) là nhà tâm lý học xã hội nổi tiếng. Ông được biết đến bởi những thí nghiệm
+  về _sự phục tùng_, phép thử xem người trưởng thành sẵn lòng làm theo mệnh lệnh như thế nào,
+  dù là gây hại cho người khác, và cả thí nghiệm _thế giới nhỏ_, thử nghiệm về mức độ kết nối trong xã hội. 
+  
 monsky:
   name: Paul Monsky
-  bio: __Paul Monsky__ (born 1936) is an American mathematician and professor at
-    Brandeis University. He proved that a square cannot be divided into an odd
-    number of equal-area triangles – this is known as “Monsky’s theorem”.
+  bio: __Paul Monsky__ (born 1936) là nhà Toán học và giáo sư tại trường Đại học 
+    Brandeis. Ông chứng minh rằng một hình vuông không thể phân chia thành một số lượng lẻ các tam giác có diện tích bằng nhau 
+    – được biết đến với cái tên “Định lý Monsky”.
 
 newton:
   name: Isaak Newton
   bio: |
-    __Sir Isaac Newton__ (1642 – 1726) was an English mathematician,
-    astronomer and physicist, and one of the most influential scientists of all
-    time. He was a fellow of Trinity College at the University of Cambridge, and
-    president of the Royal Society in London.
+    __Sir Isaac Newton__ (1642 – 1726) là nhà Toán học người Anh, cũng là nhà thiên văn học
+    và vật lý học, và là một trong những nhà khoa học có sức ảnh hưởng rất lớn trong mọi thời đại.
+    Ông học ở trường Trinity College tại Đại học Cambridge, và là chủ tịch của Hội Hoàng Gia London (Royal Society).
 
-    In his book _Principia Mathematica_, Newton formulated the laws of motion
-    and gravity, which laid the foundations for classical physics and dominated
-    our view of the universe for the next three centuries.
+    Trong cuốn sách của ông _Principia Mathematica_, Newton hình thành luật chuyển động và trọng trường,
+    tạo nền tảng cho vật lý truyền thống và chi phối nhận định của chúng ta về vũ trụ trong suốt ba thế kỷ tiếp theo.
 
-    Among many other things, Newton was one of the inventors of calculus, built
-    the first reflecting telescope, calculated the speed of sound, studied the
-    motion of fluids, and developed a theory of colour based on how prisms split
-    sunlight into a rainbow-coloured spectrum.
+    Trong nhiều lĩnh vực khác nhau, Newton còn biết đến là người sáng chế ra phép tính (calculus), 
+    người tạo kính viễn vọng phản chiếu đầu tiên, người tính tốc độ của âm thanh, nghiên cứu về chuyển động của chất lỏng,
+    và xây dựng lý thuyết về cách lăng kính phân chia ánh sáng thành quang phổ cầu vồng. 
 
 nicomachus:
   name: Nicomachus of Gerasa
-  bio: __Nicomachus of Gerasa__ (c. 60 – 120) was an ancient Greek mathematician
-    who also spent much time thinking about the mystical properties of numbers.
-    His book _Introduction to Arithmetic_ contains the first mention of perfect
-    numbers.
+  bio: __Nicomachus of Gerasa__ (c. 60 – 120) là nhà Toán học người Hi Lạp,
+  người dành rất nhiều thời gian suy nghĩ về những đặc tính bí ẩn của các con số. 
+  Cuốn sách _Giới thiệu về Số học_ (Arithmetic) của Ông giới thiệu lần đầu tiên về những con số hoàn hảo.
 
 noether:
   name: Emmy Noether
-  bio: __Amalie Emmy Noether__ (1882 – 1935) was a German mathematician who made
-    important discoveries in abstract algebra and theoretical physics, including
-    the connection between symmetry and conservation laws. She is often
-    described as the most influential female mathematician.
+  bio: __Amalie Emmy Noether__ (1882 – 1935) là nhà Toán học người Đức, người có những phát minh
+  quan trọng về Đại số trừu tượng (abstract algrebra) và Vậy lý lý thuyết, bao gồm sự kết nối giữa sự đối xứng và luật bảo toàn. 
+  Bà được xem là người phụ nữ có sức ảnh hưởng lớn nhất trong thế giới Toán học. 
 
 pascal:
   name: Blaise Pascal
   bio: |
-    __Blaise Pascal__ (1623 – 1662) was a French mathematician, physicist and
-    philosopher. He invented some of the first mechanical calculators, as well
-    as working on projective geometry, probability and the physics of the
-    vacuum.
+    __Blaise Pascal__ (1623 – 1662) là một nhà Toán học, Vật lý và nhà Triết học người Pháp. 
+    Ông phát minh ra một trong nhuwxan máy tính cơ đầu tiên, cũng như nghiên cứu về
+    hình học xạ ảnh (projective geometry), xác suất và vật lý chân không. 
 
-    Most famously, Pascal is remembered for naming _Pascal’s Triangle_, an
-    infinite triangle of numbers with some amazing properties.
+    Nổi tiếng nhất là Pascal được nhớ đến bởi _ Tam Giác Pascal_, một tam giác vô hạn những con số với những đặc tính đặc biệt.
 
 pearson:
   name: Karl Pearson
-  bio: __Karl Pearson__ (1857 – 1936) was an English mathematician and
-    statistician. He worked on biometrics, meteorology, and eugenics, among many
-    other topics, and founded the world’s first university statistics
-    department, at University College London.
+  bio: __Karl Pearson__ (1857 – 1936) là nhà Toán học và thống kê người Anh. 
+  Ông nghiên cứu về sinh trắc học (biometrics), khí tượng học (meteorology), thuyết ưu sinh (eugenics), và nhiều chủ đề khác,
+  và là người thành lập ngành thống kê đầu tiên trên thế giới tại trường Đại học College London. 
 
 penrose:
   name: Roger Penrose
   bio: |
-    __Sir Roger Penrose__ (born 1931) is a British mathematician and physicist
-    who is known for his groundbreaking work in general relativity and cosmology
-    – often collaborating with other famous scientists like Stephen Hawking and
-    Michael Atiyah. He also discovered _Penrose Tilings_: self-similar,
-    non-periodic tessellations.
+    __Sir Roger Penrose__ (born 1931) là nhà Toán học, Vật lý học người Anh được biết đến với
+    nghiên cứu tiến bộ về tính tương đối và vũ trụ luận. Ông thường hợp tác với những nhà khoa học nổi tiếng khác
+    như Stephen Hawking và Michael Atiyah. Ông cũng là người khám phá ra _Penrose Tilings_: 
+    cách khảm lát đá giống nhau (self-similar) và không tuần hoàn (non-periodic tessellations).
 
 pingala:
   name: Pingala
-  bio: __Pingala__ (पिङ्गल) was an ancient Indian poet and mathematician who
-    lived around 300BC, but very little is known about his life. He wrote the
-    Chandaḥśāstra, where he analysed Sanskrit poetry mathematically. It also
-    contained the first known explanations of binary numbers, Fibonacci numbers
-    and Pascal’s triangle.
-
+  bio: __Pingala__ (पिङ्गल) là nhà thơ nhà Toán học người Ấn Độ vào những năm 300 trước CN,
+  nhưng chúng ta biết rất ít về cuộc đời của Ông. Ông viết Chandaḥśāstra, khi Ông phân tích thơ Sanskrit theo toán học. 
+  Đây cũng được xem là một trong những giải thích đầu tiên về số nhị phân, số Fibonacci và Tam giác Pascal.
+    
 planck:
   name: Max Plank
-  bio: __Max Plank__ (1858 – 1947) was a German physicist and one of the
-    original developers of Quantum Mechanics – for which received the Nobel
-    Prize in 1918.
+  bio: __Max Plank__ (1858 – 1947) là nhà Vật lý người Đức và một trong những 
+  người phát triển đầu tiên về Quantum Mechanics – giúp Ông đạt giải Nobel năm 1918. 
 
 plato:
   name: Plato
   bio: |
-    __Plato__ (c. 425 – 347 BC) was a philosopher in ancient Greece, and –
-    together with his teacher Socrates and his student Archimedes – laid the
-    very foundation of Western philosophy and science.
-
-    Plato founded the Academy of Athens, the first higher learning institution
-    in the Western world. His many writings on philosophy and theology, science
-    and mathematics, politics and justice, make him one of the most influential
-    thinkers of all time.
+    __Plato__ (c. 425 – 347 BC) là nhà triết học người Hi Lạp cổ đại, 
+    và cùng với thầy mình là Socrates và học sinh của Ông là Archimedes đã tạo nên
+    nền tảng cho nền Triết học và Khoa học phương Tây. 
+    
+    Plato thành lập Academy (học viện) của Athens, một trong những học viện cao học đầu tiên của phương Tây 
+    Ông có nhiều bài viết về Triết học và Thần học, Khoa học và Toán học, Chính trị và Công lý, 
+    và là một trong những nhà tư tưởng có ảnh hưởng lớn nhất trong mọi thời đại. 
 
 pythagoras:
   name: Pythagoras
   bio: |
-    __Pythagoras of Samos__ (c. 570 – 495 BC) was a Greek philosopher and
-    mathematician. He is best known for proving _Pythagoras’ Theorem_, but made
-    many other mathematical and scientific discoveries.
+    __Pythagoras of Samos__ (c. 570 – 495 BC) là nhà Triết học và Toán học người Hi Lạp.
+    Ông được biết đến với chứng minh _ Định luật Pythagoras_, nhưng Ông có rất nhiều khám phá khác
+    nữa trong cả khoa học và Toán học.
 
-    Pythagoras tried to explain music in a mathematical way, and discovered that
-    two tones sound “nice” together (consonant) if the ratio of their
-    frequencies is a simple fraction.
+    Pythagoras tìm cách giải thích âm nhạc theo toán học và khám phá ra rằng 
+    hai âm nghe "hay" cùng nhau (consonant - thuận tai, du dương) nếu tỉ lệ tần số của chúng là một phân số đơn giản.
 
-    He also founded a school in Italy where he and his students worshipped
-    mathematics almost like a religion, while following a number of bizzare
-    rules – but the school was eventually burned down by their adversaries.
-
+    Ông cũng là người thành lập trường ở Ý, nơi Ông và học sinh của mình thờ tượng Toán học gần như một tôn giáo,
+    với những quy tắc kì quặc - nhưng cuối cùng trường bị đốt cháy bởi kẻ địch. 
+    
 riemann:
   name: Bernhard Riemann
-  bio: __Bernhard Riemann__ (1826 – 1866) was a German mathematician working in
-    the fields of analysis and number theory. He came up with the first rigorous
-    definition of integration, studied differential geometry which laid the
-    foundation for general relativity, and made groundbreaking discoveries
-    regarding the distribution of prime numbers.
+  bio: __Bernhard Riemann__ (1826 – 1866) là nhà Toán học trong ngành phân tích và lý thuyết số. 
+  Ông là người đưa ra định nghĩa nghiêm ngặt đầu tiên về tích phân (integration), nghiên cứu hình học vi phân 
+  tạo nền tảng cho thuyết tương đối, và có những phát minh đột phá liên quan đến sự phân phối của các số nguyên tố. 
 
 shannon:
   name: Claude Shannon
-  bio: __Claude Shannon__ (1898 – 1972) was an American mathematician and
-    electrical engineer, remembered as the “father of information theory”. He
-    worked on cryptography, including codebreaking for national defense during
-    World War II, but he was also interested in juggling, unicycling and chess.
-    In his spare times, he built machines that could juggle or solve the Rubik’s
-    Cube puzzle.
+  bio: __Claude Shannon__ (1898 – 1972) là nhà Toán học và kỹ sư điện tử người Mỹ, 
+  được biết đến với tên “Cha đẻ của Lý thuyết thông tin”. Ông nghiên cứu mật mã, giải mã cho cơ quan an ninh quốc gia, 
+  trong Thế chiến thứ II, nhưng Ông cũng rất thích thú về tung hứng, xe đạp một bánh và cờ vua. Trong thời gian rảnh 
+  Ông tìm tòi sáng chế những chiếc máy có thể tung hứng hoặc giải toán về _Khối Rubik_. 
 
 sikdar:
   name: Radhanath Sikdar
-  bio: __Radhanath Sikdar__ (1813 – 1870) was an Indian mathematician. He was
-    the first to measure the height of Mount Everest, and to show that it is
-    the tallest mountain on Earth.
+  bio: __Radhanath Sikdar__ (1813 – 1870) là nhà Toán học người Ấn Độ. Ông là người đầu tiên đo được độ cao của núi
+  Everest và cho chúng ta biết rằng đó là ngọn núi cao nhất trên thế giới.
 
 singmaster:
   name: David Singmaster
-  bio: __David Singmaster__ (born 1939) is an American mathematician who is
-    particularly well known for his mathematical puzzles and brain teasers. He
-    was the first to come up with mathematical algorithms for analysing and
-    solving the _Rubik’s Cube_.
+  bio: __David Singmaster__ (born 1939) là nhà Toán học người Mỹ nổi tiếng về các bài toán đố. 
+  Ông là người đầu tiên đưa ra thuật toán phân tích và giải bài toán về _Khối Rubik_.
 
 thales:
   name: Thales
   bio: |
-    __Thales of Miletus__ (c. 624 – 546 BC) was a Greek mathematician and
-    philosopher.
+    __Thales of Miletus__ (c. 624 – 546 BC) là nhà Toán học và Triết học người Hi Lạp. 
 
-    Thales is often recognised as the first scientist in Western civilisation:
-    rather than using religion or mythology, he tried to explain natural
-    phenomena using a scientific approach. He is also the first individual in
-    history that has a mathematical discovery named after him: Thales’ theorem.
+    Thales được xem là nhà khoa học đầu tiên trong nền văn minh phương Tây cố gắng giải thích 
+    về tôn giáo và những điều bí ẩn sử dụng phương pháp khoa học. Ông cũng là người đầu tiên trong lịch sử 
+    Toán học có khám phá khoa học được đặt theo tên mình: Định lý Thales.
 
 thorp:
   name: Edward Thorp
-  bio: __Edward Thorp__ (born 1932) is an American hedge fund manager and
-    blackjack player, known for inventing _card counting_ and for building the
-    first _wearable computer_ to beat casinos at Roulette. He worked at MIT, is
-    a professor of mathematics, and pioneered modern applications of probability
-    theory.
+  bio: __Edward Thorp__ (born 1932) là nhà quản lý quỹ đầu tư người Mỹ, và là người chơi 
+    blackjack, được biết đến là người khác chế máy _đếm bài_ và _máy tính đeo_ đầu tiên đánh bại các
+    sòng bài ở Roulette. Ông là giáo sư Toán ở trường Đại học MIT và là nhà tiên phong trong 
+    việc áp dụng lý thuyết xác suất. 
 
 ulam:
   name: Stanisław Ulam
-  bio: __Stanisław Ulam__ (1909 – 1984) was a Polish-American mathematician. He
-    played an important part in the American _Manhatten Project_ that developed
-    the first nuclear weapons. He also worked on rocket propulsion using nuclear
-    pulses, and developed the _Monte Carlo method_ – and important concept in
-    statistics.
+  bio: __Stanisław Ulam__ (1909 – 1984) là nhà Toán học người Mỹ - Balan. Ông có vai trò rất quan trọng
+  trong _Dự án Manhatten_ của Mỹ đầu tiên phát triển vũ khí hạt nhân. Ông cũng nghiên cứu 
+  động cơ đẩy hạt nhân của tên lửa, và phát triển _ Phương pháp Monte Carlo_ – một khái niệm rất quan trọng trong
+  thống kê.
 
 venn:
   name: John Venn
-  bio: __John Venn__ (1834 – 1923) was an English mathematician and philosopher
-    who introduced the _Venn diagram_ used in set theory and probability. He
-    taught at Cambridge University and was a Fellow of the Royal Society in
-    London.
+  bio: __John Venn__ (1834 – 1923) là nhà Toán học và Triết học người Anh
+  người giới thiệu _Biểu đồ Venn_ được sử dụng trong lý thuyết và xác suất. Ông giảng dạy 
+  tại trường Đại học Cambridge và là thành viên của Hội Hoàng gia London (Royal Society).
