@@ -1,350 +1,331 @@
 # ==============================================================================
-# GENERAL
+# KHÁI QUÁT
 # ==============================================================================
 
 
 axiom:
-  title: Axiom
-  text: An __axiom__ (sometimes also called __postulate__) is a mathematical
-    statement that is regarded as “self-evident” and accepted without proof.
-    Axioms form the foundation of mathematics and can be used to prove other
-    results.
+  title: Tiên đề (axiom)
+  text: Một __tiên đề__ (axiom đôi khi được gọi là __postulate__) là một tuyên bố 
+  toán học được xem là “hiển nhiên đúng” và được chấp nhận mà không cần minh chứng.
+    Các tiên đề tạo nên nền tảng của toán học và có thể được sử dụng để chứng minh
+    các kết quả khác. 
 
 theorem:
-  title: Theorem
-  text: A __theorem__ is a particularly important result or observation in
-    mathematics, that has been proven using axioms and previous theorems.
-
+  title: Định lý (theorem)
+  text: Một __định lý__ là một kết quả quan trọng hay một quan sát trong toán học
+  đã được chứng minh bằng tiên dề hoặc các định lý trước đó.
+    
 proof:
-  title: Proof
-  text: A __proof__ is a logical argument that shows beyond any doubt that a
-    certain statement is true.
+  title: Bằng chứng (proof)
+  text: Một __bằng chứng__ là một lý lẽ toán học xác định một tuyên bố nhất định là đúng. 
 
 formula:
-  title: Formula
-  text: A __formula__ is a rule or equation that describes the relationship
-    between two or more variables. An example is `A = πr^2`.
+  title: Công thức (formula)
+  text: Một __công thức__ là một quy tắc hoặc phương trình mô tả mối quan hệ giữa hai hoặc 
+  nhiều biến. Một ví dụ là `A = πr^2`.
 
 numerator:
-  title: Numerator
-  text: The __numerator__ is the top number in a fraction. For example, in
-    `4/7`, the number 4 is the numerator.
+  title: Tử số (numerator)
+  text: Một __tử số__ là số ở phía trên của một phân số (fraction). Ví dụ, trong phân số 
+  `4/7`, số 4 chính là tử số.
 
 denominator:
-  title: Denominator
-  text: The __denominator__ is the bottom number in a fraction. For example, in
-    `4/7`, the number 7 is the denominator.
+  title: Mẫu số (denominator)
+  text: Một __mẫu số__ là số nằm dưới phân số. Ví dụ trong phân số `4/7`,
+  số 7 chính là mẫu số. 
 
 
 
 # ==============================================================================
-# NUMBERS AND ARITHMETIC
+# SỐ VÀ SỐ HỌC (ARITHMETIC)
 # ==============================================================================
 
 
 integer:
-  title: Integer
-  text: "The __integers__ are the positive and negative whole numbers including
-    zero: …, –3, –2, –1, 0, 1, 2, 3, …"
+  title: Số nguyên (integer)
+  text: "__Số nguyên__ là các số bao gồm các số nguyên dương và âm:
+  …, –3, –2, –1, 0, 1, 2, 3, …"
 
 natural-numbers:
-  title: Natural Numbers
-  text: The __natural numbers__ are the positive whole numbers starting at 1:
+  title: Số tự nhiên (natural numbers)
+  text: Các __số tự nhiên__ là các số nguyên dương bắt đầu từ 1:
     1, 2, 3, 4, …
 
 rational-numbers:
-  title: Rational Numbers
-  text: __Rational numbers__ are numbers that can be expressed as a fraction (or
-    ratio) of two integers. Examples include `1/2`, `-5/7`, 12.7 and 9.
+  title: Số hữu tỉ (rational numbers)
+  text: __Số hữu tỉ__ là các số có thể được diễn tả bằng phân số (hoặc tỉ lệ)
+  của hai số nguyên. Ví dụ: `1/2`, `-5/7`, 12.7 và 9.
 
 irrational-numbers:
-  title: Irrational Numbers
-  text: __Irrational numbers__ are numbers that cannot be expressed as fractions
-    of integers (_rational numbers_). For example, 0.333333… = `1/3` is
-    _rational_ but `π`, `sqrt(2)` and _e_ are all _irrational_.
+  title: Số vô tỉ (irrational numbers)
+  text: __Số vô tỉ__ là các số không thể diễn tả bằng phân số hay số nguyên (như _số hữu tỉ_). Ví dụ: 0.333333… = `1/3` là
+    _hữu tỉ_ nhưng số pi `π`, căn của 2 (`sqrt(2)`) và _hằng số e_ đều là _vô tỉ_.
 
 infinity:
-  title: Infinity
-  text: __Infinity__ is a quantity without limit or end. In matematics, it is
-    represented by te symbol `∞`.
+  title: Vô hạn (infinity)
+  text: __Vô hạn__ là một lượng không có giới hạn hay kết thúc. Trong toán học, nó
+  được biểu tượng bởi ký hiệu `∞`.
 
 powers:
-  title: Exponentiation
-  text: __Exponentiation__ (or __powers__) is the mathematical operation where a
-    number (the _base_) is multiplied by itself a specified number of times (the
-    _exponent_). This is usually written as a superscript `a^x`, where _a_ is
-    the base and _x_ is the exponent. For example, `4^3=4×4×4`.
+  title: Sự mũ hóa (exponentiation)
+  text: __Sự mũ hóa__ (hay __lũy thừa__ (powers)) là một phép toán 
+  khi số (_gốc_ (base)) được nhân lên bởi chính nó theo một số lần nhất định (
+    _số mũ_ (exponent)). Thường được viết theo chỉ số trên `a^x`, với _a_ là gốc
+    và _x_ là số mũ. Ví dụ: `4^3=4×4×4`.
 
 associative:
-  title: Associativity
-  text: An operation • is associative if `a•(b•c) = (a•b)•c`. For example,
-    addition (+) and multiplication (×) of numbers are associative.
+  title: Tính kết hợp (associativity)
+  text: Một phép toán • mang tính kết hợp nếu `a•(b•c) = (a•b)•c`. Ví dụ:
+    phép cộng (+) và phép nhân (×) của các số mang tính kết hợp.
 
 
 
 # ==============================================================================
-# ALGEBRA
+# ĐẠI SỐ (ALGEBRA)
 # ==============================================================================
 
 
 term:
-  title: Term (Algebra)
-  text: A __term__ in an algebraic expression or equation is a single number or
-    variable, or the product of several numbers and variables separated from
-    another term by a + or – sign.
-
+  title: Số hạng (term trong Đại số)
+  text: Một __số hạng__ trong một phương trình hay biểu đạt đại số là một số
+  hoặc một biến, hoặc là kết quả của nhiều số và nhiều biến cách nhau bởi một 
+  số hạng khác hoặc bởi dấu + hay -.
+    
 variable:
-  title: Variable
-  text: A __variable__ is an unknown quantity in an algebraic expression, which
-    is usually represented by a letter like _x_.
+  title: Biến số (variable)
+  text: Một __biến số__ là một lượng chưa biết trong đại số, thường được biểu đạt bởi
+  một chữ _x_.
 
 coefficient:
-  title: Coefficient
-  text: __Coefficients__ are the numbers in front of the variables in a
-    mathematical expression or equation. For example, in the expression
-    `4x + 5y^2 + 3z`, the coefficients of `x`, `y^2` and `z` are 4, 5 and 3.
+  title: Hệ số (coefficient)
+  text: __Hệ số__ là những số nằm trước biến trong biểu thức hoặc phương trình đại số.
+  Ví dụ: trong biểu thức   `4x + 5y^2 + 3z`, hệ số của `x`, `y^2` and `z` là 4, 5 và 3.
 
 polynomial:
-  title: Polynomial
-  text: A __polynomial__ is an algebraic expression that consists of constants
-    and multiples of variables and their powers. An example would be
-    `5x^3 - 2x^2 + x + 4`.
+  title: Đa thức đại số (polynomial)
+  text: Một __đại số đa thức__ là một biểu thức đại số bao gồm hằng số (constant) và cấp nhân của biến 
+  và số mũ của nó. Một ví dụ: `5x^3 - 2x^2 + x + 4`.
 
 polynomial-degree:
-  title: Degree
-  text: The degree of a polynomial is the highest power of any variables in it.
-    For example, the degree of `5x^3 + 2x - 4` is 3.
+  title: Bậc đa thức (polynomial-degree)
+  text: Bậc của một đa thức là là số mũ lớn nhất của bất kỳ biến nào trong đa thức đó.
+  Ví dụ: bậc của `5x^3 + 2x - 4` là 3.
 
 quadratic:
-  title: Quadratic
-  text: A __quadratic__ is a polynomial of degree 2. For example, `x^2 - 2x + 3`
-    is a quadratic.
+  title: Mớ bậc hai (quadratic)
+  text: Một __mớ bậc hai__ là một đa thức có bậc 2. Ví dụ: `x^2 - 2x + 3`
+    là một mớ bậc hai.
 
 function:
-  title: Function
-  text: A __function__ is a mathematical relation that converts inputs (_x_)
-    into outputs (_y_). They are often expressed as mathematical equations of
-    the form `f(x)`.
+  title: Hàm số (function)
+  text: Một __hàm số__ là một mối quan hệ toán hoặc chuyển đầu vào (_x_)
+    thành đầu ra (_y_). Hàm số thường được biểu đạt bởi phương trình toán học dưới dạng
+    `f(x)`.
 
 function-graph:
-  title: Graphs of Functions
-  text: We can plot mathematical functions of the form `f(x)` in a coordinate
-    system. The result is called the __graph__ of the function.
+  title: Đồ thị hàm số (graphs of functions)
+  text: Chúng ta có thể vẽ đồ thị của các hàm số dạng `f(x)` theo một hệ thống tọa độ (coordinate system).
+  Kết quả được gọi là __đồ thị__ của hàm số.
 
 
 
 # ==============================================================================
-# SEQUENCES
+# DÃY SỐ (SEQUENCES)
 # ==============================================================================
 
 
 sequence:
-  title: Sequence
-  text: A __sequence__ is an ordered list of numbers of elements that are
-    usually detemined using some function or patterns. Sequences can be both
-    finite and infinite.
+  title: Dãy số (sequence)
+  text: Một __dãy số__ là một danh sách các số thường được xác định bởi hàm số (function) hoặc mẫu (pattern). Dãy số có thể giới hạn
+  hoặc vô hạn. 
   link: /course/sequences/introduction#simple-patterns
 
 sequence-term:
-  title: Terms of a Sequence
-  text: The __terms__ of a sequence are all the individual elements.
+  title: Các Số hạng (term) của một Dãy số (sequence)
+  text: Các __số hạng__ của một dãy số là từng nhân tố của dãy số. 
   link: /course/sequences/introduction#simple-patterns
 
 sequence-recursive:
-  title: Recursie Formula
-  text: A __recursive formula__ for a sequence expresses the value of every
-    term `x_n` as a function of its previous terms.
+  title: Công thức Đệ quy (recursie formula)
+  text: Một __công thức đệ quy__  cho một dãy số diễn tả giá trị của từng số hạng 
+    `x_n` như là một hàm số của các số hạng trước đó. 
   link: /course/sequences/introduction#recursive-1
 
 sequence-explicit:
-  title: Explicit Formula
-  text: An __explicit formula__ for a sequence expresses the value of the *n*th
-    term `x_n` as a function of _n_.
+  title: Công thức Định rõ (explicit formula)
+  text: Một __công thức định rõ__ cho một dãy số thể hiện giá trị của *n*th
+    số hạng `x_n` là một hàm số của _n_.
   link: /course/sequences/introduction#explicit
 
 sequence-convergence:
-  title: Convergence
-  text: A sequence __converges__ if, over time, its terms get closer and closer
-    to a specific __limit__.
-
+  title: Độ hội tụ (convergence)
+  text: Một dãy số __hội tụ__ nếu, qua thời gian, các số hạng tiến gần đến một 
+  __giới hạn__ cụ thể. 
+   
 sequence-divergence:
-  title: Divergence
-  text: A sequence __diverges__ if, over time, its terms get bigger and bigger,
-    towards infinity (or negative infinity).
+  title: Độ phân tán (divergence)
+  text: Một dãy số __phân tán__ nếu, qua thời gian, các số hạng lớn dần lên,
+    tiến đến vô hạn (hoặc vô hạn âm).
 
 arithmetic-sequence:
-  title: Arithmetic Sequence
-  text: An __arithmetic sequence__ (sometimes called __arithmetic progression__)
-    is a sequence of numbers in which the difference _d_ between consecutive
-    terms is always constant.
+  title: Cấp số cộng (arithmetic sequence)
+  text: Một __ cấp số cộng__ (đôi khi được gọi là __arithmetic progression__)
+    là một dãy số trong đó sự khác biệt _d_ giữa hai số hạng liên tiếp luôn là một hằng số.
   link: /course/sequences/arithmetic-geometric#arithmetic-geometric-1
 
 geometric-sequence:
-  title: Geometric Sequence
-  text: A __geometric sequence__ (sometimes called __geometric progression__)
-    is a sequence of numbers in which the ratio _r_ between consecutive terms
-    is always constant.
+  title: Cấp số nhân (geometric sequence)
+  text: Một __cấp số nhân__ (đôi khi được gọi là __geometric progression__)
+    là một dãy số trong đó tỉ lệ _r_ giữa hai số hạng liên tiếp luôn là một hằng số.
   link: /course/sequences/arithmetic-geometric#arithmetic-geometric-1
 
 triangle-numbers:
-  title: Triangle Numbers
-  text: A __triangle number__ is an integer that can be represented as an
-    equilateral triangle of dots. The formula for the *n*th triangle number is
-    `(n*(n+1))/ 2`, and the first triangle numbers are 1, 3, 6, 10, 15, …
+  title: Số tam giác (triangle numbers)
+  text: Một __số tam giác__ là một số nguyên có thể đại diện cho tổng các điểm chấm tạo nên tam giác. 
+  Công thức cho số tam giác *n*th là `(n*(n+1))/ 2`, và các số tam giác đầu tiên là: 1, 3, 6, 10, 15, …
   image: triangle-numbers.svg
   link: /course/sequences/figurate#triangle-numbers
 
 square-numbers:
-  title: Square Numbers
-  text: A __square number__ is a number that can be expressed as the square of
-    another integer. The first square numbers are 1, 4, 9, 16, 25, …
+  title: Căn số (square numbers)
+  text: Mọt __căn số__ là một số được biểu hiện bởi căn bậc hai của
+  một số nguyên khác. Các căn số đầu tiên là: 1, 4, 9, 16, 25, …
   link: /course/sequences/introduction#squares
 
 tetrahedral-numbers:
-  title: Tetrahedral Numbers
-  text: A __tetrahedral number__ is a number that is created by stacking
-    multiple spheres into a _tetrahedron_. The first tetrahedral numbers are
-    1, 4, 10, 20, 35, …
+  title: Số tứ diện (tetrahedral numbers)
+  text: Một __số tứ diện__ là một số được hình thành bởi việc chồng các mặt thành một
+  _tứ diện_. Các số tứ diện đầu tiên là 1, 4, 10, 20, 35, …
   link: /course/sequences/figurate#tetrahedral
 
 fibonacci-numbers:
-  title: Fibonacci Numbers
-  text: The sequence of __Fibonacci numbers__ starts with 1, 1. Every following
-    term if the sum of the two previous terms, which means that the recursive
-    formula is `x_n = x_(n-1) + x_(n-2)`.
+  title: Số Fibonacci (fibonacci numbers)
+  text: Dãy số của __số Fibonacci__ bắt đầu từ 1, 1. Sau đố mỗi số tiếp theo là tổng của hai số trước đó,
+  nghĩa là công thức đệ quy (recursive formula) là `x_n = x_(n-1) + x_(n-2)`.
   link: /course/sequences/fibonacci#fibonacci
 
 perfect-numbers:
-  title: Perfect Numbers
-  text: A __perfect number__ is a number that is equal to the sum of its
-    divisors (excluding itself). For example, `28 = 1 + 2 + 4 + 7 + 14` is
-    a perfect number.
+  title: Sô hoàn toàn (perfect numbers)
+  text: __Số hoàn toàn__ là một số bằng tổng của các số chia/ ước số (không bao gồm chính nó). 
+  Ví dụ: `28 = 1 + 2 + 4 + 7 + 14` là một số hoàn hảo.
   link: /course/sequences/special#perfect-1
 
 figurate-numbers:
-  title: Firgurate Numbers
-  text: __Figurate numbers__ are numbers that can be represented using geometric
-    shapes. Examples include square, triangle and tetrahedral numbers.
+  title: Số tượng trưng (figurate numbers)
+  text: __Số tượng trưng__ là các số có thể biểu hiện bởi khối hình học. 
+  Ví dụ bao gồm: số căn, số tam giác và số tứ diện. 
   link: /course/sequences/figurate#figurate
 
 hailstone-sequence:
-  title: Hailstone Sequence
+  title: Dãy Hailstone (hailstone sequence)
   text: |
-    __Hailstone sequences__ can be generated by picking any integer as starting
-    point, and then following these rules:
+    __Dãy Hailstone__ được hình thành bởi chọ bất kỳ số nguyên nào làm điểm khởi đầu
+    và sau đó theo luật sau: 
 
-    * If `x_n` is even, `x_(n+1) = x_n / 2`.
-    * If `x_n` is odd, `x_(n+1) = 3 * x_n + 1`
+    * Nếu `x_n` là số chẵn, `x_(n+1) = x_n / 2`.
+    * Nếu `x_n` là số lẻ, `x_(n+1) = 3 * x_n + 1`
   link: /course/sequences/special#hailstone
 
 golden-ratio:
-  title: Golden Ratio
+  title: Tỉ lệ vàng (golden ratio)
   text: |
-    The __golden ratio__ is a specific irrational number with value
-    `φ = 1.61803398875…`. It can be approximated by dividing two consecutive
-    Fibonacci numbers.
+    __ Tỉ lệ vàng__ là một số vô tỉ với giá trị `φ = 1.61803398875…`.
+    Nó có thể được ước tính bằng cách chia hai số liền kề trong các số Fibonacci cho nhau.
 
-    The golden ratio is often seen as particularly aesthetically pleasing in art
-    and architecture, and it appears in the spirals of many plants.
+    Tỉ lệ vàng được xem là tỉ lệ đẹp trong nghệ thuật và kiến trúc, và cũng là tỉ lệ thể hiện trong nhiều 
+    loại thực vực có cấu trúc hình xoáy.
   link: /course/sequences/fibonacci#golden-ratio-1
 
 pascals-triangle:
-  title: Pascal’s Triangle
-  text: __Pascal’s triangle__ is a number pyramid in which every cell is the sum
-    of the two cells directly above. It contains all binomial coefficients, as
-    well as many other number sequences and patterns.
+  title: Tam giác Pascal (Pascal’s triangle)
+  text: __Tam giác Pascal__ là một số kim tự tháp trong đó mỗi ô là tổng của hai ô liền kề phía trên. 
+  Nó chưa tất cả các hệ số nhị thức, cũng như nhiều dãy số và mẫu (pattern) khác. 
   link: /course/sequences/pascals-triangle#pascal-triangle
 
 
 
 # ==============================================================================
-# GEOMETRY
+# HÌNH HỌC (GEOMETRY)
 # ==============================================================================
 
 
 euclidean-geometry:
-  title: Euclidean Geometry
-  text: __Euclidean geometry__ is the kind of geometry envisioned by the
-    mathematician _Euclid_. It dependes on just five _axiom_, the sort of “laws”
-    of geometry, that describe everything that you’re allowed to do.
+  title: Hình học Euclid (Euclidean geometry)
+  text: __Hình học Euclid__ là loại hình học được định hình bởi nhà toán học
+  _Euclid_. Nó chỉ phụ thuộc vào 5 tiên đề, được xem là "luật" hình học, giải thích 
+  tất cả những gì bạn được phép làm.
   link: /course/euclidean-geometry/euclids-axioms#euclid
 
 point:
-  title: Point
-  text: A __point__ is a specific location in space. Points describe a position,
-    but have no size or shape themselves.
+  title: Điểm (point)
+  text: Một __điểm__ là một vị trí nhất định trong không gian. Điểm thể hiện một vị trí, nhưng 
+  không có kích thước hay hình dáng cụ thể. 
   link: /course/euclidean-geometry/definitions#points
 
 line:
-  title: Line
-  text: A __line__ is a set of infinitely many points that extend forever in
-    both directions. Lines are always straight and have no _width_.
+  title: Đường (line)
+  text: Một __đường__ là một bộ vô hạn các điểm vươn đến vô cùng từ hai phía. Đường
+  thường là thẳng  và không có _độ rộng_.
   link: /course/euclidean-geometry/definitions#lines
 
 ray:
-  title: Ray
-  text: A __ray__ is the part of a line that only extends to infinity in one
-    direction. We can label rays as `vec(AB)`.
+  title: Tia (ray)
+  text: Một __tia__ là một phần của đường, chỉ vươn đến vô hạn ở một phía.
+  Chúng ta có thể biểu thị cho các tia bằng `vec(AB)`.
   link: /course/euclidean-geometry/definitions#rays
 
 line-segment:
-  title: Line segment
-  text: A __line segment__ is the part of a line that lies between two points,
-    without extending to infinity. We can label line segments as `bar(AB)`.
+  title: Đoạn thẳng (line segment)
+  text: A __line segment__ là một phần của đường thẳng nằm giữa hai điểm,
+   không kéo dài đến vô hạn. Chúng ta có thể biểu thị cho đoạn thẳng bằng `bar(AB)`.
   link: /course/euclidean-geometry/definitions#segments
 
 collinear:
-  title: Collinear points
-  text: Three or more points are __collinear__ if they lie on the same line.
+  title: Các điểm cộng tuyến (collinear points)
+  text: Ba hay nhiều điểm __cộng tuyến__ nếu chúng cùng nằm trên một đường thẳng. 
 
 congruent:
-  title: Congruence
-  text: In geometry, two figures are __congruent__ if are identical in size,
-    shape and measure. This means we could move, flip or rotate them to exactly
-    fit on top of each other.
+  title: Đồng dạng (congruence)
+  text: Trong hình học, hai hình __đồng dạng__ nếu chúng có hình dạng, kích thước,
+    và số đo bằng nhau. Nghĩa là bạn có thể di chuyển, xoay chúng sao cho chúng có thể chồng khít lên nhau. 
   link: /course/euclidean-geometry/definitions#congruence
 
 congruent-angles:
-  title: Congruent Angles
-  text: Two angles are __congruent__ if they have the same size.
+  title: Góc đồng dạng (congruent angles)
+  text: Hai góc __đồng dạng__ nếu chúng có cùng kích thước.
 
 midpoint:
-  title: Midpoint
-  text: The __midpoint__ of a line segment is the point on the line segment that
-    splits the segment in the middle, into two congruent parts. The __midpoint
-    formula__ says that for endpoints `(x_1, y_1)` and `(x_2,y_2)`, the midpoint
-    is `((x_1 + x_2)/2, (y_1 + y_2)/2)`.
+  title: Trung điểm (midpoint)
+  text: __Trung điểm__ của một đoạn thẳng là điểm ở giữa chia đoạn thẳng thành hai đoạn bằng nhau. 
+  __Công thức trung điểm__ cho hai đầu đoạn thẳng là `(x_1, y_1)` và `(x_2,y_2)`, và trung điểm là `((x_1 + x_2)/2, (y_1 + y_2)/2)`.
 
 perpendicular-bisector:
-  title: Perpendicular bisector
-  text: The __perpendicular bisector__ of a line segment passes through its
-    midpoint and intersects it at an angle of 90°.
+  title: Trung tuyến (perpendicular bisector)
+  text: __Trung tuyến__ của một đoạn thẳng đi qua trung điểm và giao với đoạn thẳng với góc 90°.
   image: perpendicular-bisector.svg
 
 angle-bisector:
-  title: Angle bisector
-  text: An __angle bisector__ is a line that splits an angle in the middle, into
-    two congruent, smaller angles.
+  title: Đường phân giác (angle bisector)
+  text: Một __đường phân giác__ là đường chia một góc thành hai góc đồng dạng nhỏ hơn. 
   image: angle-bisector.svg
 
 protractor:
-  title: Protractor
-  text: A protractor is a tool used to measure an angle in degrees.
+  title: Thước đó góc (protractor)
+  text: Thước đo góc là công cụ đo độ của góc.
 
 transversal:
-  title: Traversal
-  text: A transversal is a line that intersects two other lines.
+  title: Đường hoành (transversal)
+  text: Là đường cắt hai đường khác.
 
 parallel:
-  title: Parallel lines
-  text: Two or more lines are __parallel__ if they never intersect. They have
-    the same slope and the distance between them is always constant.
+  title: Đường song song (parallel lines) 
+  text: Hai hay nhiều đường __song song__ khi chúng không bao giờ cắt nhau. Chúng có cùng độ dốc và khoảng cách giữa chúng là một hằng số. 
   image: parallel.svg
   link: /course/euclidean-geometry/definitions#parallel
 
 perpendicular:
-  title: Perpendicular lines
-  text: Two lines are __perpendicular__ if they intersect at a right angle.
+  title: Đường vuông góc (perpendicular lines)
+  text: Hai đường __vuông góc__ nếu chúng cắt nhau ở góc 90°. 
   image: perpendicular.svg
   link: /course/euclidean-geometry/definitions#perpendicular
 
@@ -353,149 +334,140 @@ perpendicular:
 # Angles
 
 acute-angle:
-  title: Acute angle
-  text: An __acute angle__ is an angle of size less than 90°.
+  title: Góc nhọn (acute angle)
+  text: Một __góc nhọn__ là góc có số đo nhỏ hơn 90°.
 
 obtuse-angle:
-  title: Obtuse angle
-  text: An __obtuse angle__ is an angle of size greater than 90° but less than
-    180°
+  title: Góc tù (obtuse angle)
+  text: Một __góc tù__ là góc có số đo lớn hơn 90° nhưng bé hơn 180°
 
 right-angle:
-  title: Right angle
-  text: A __right angle__ is an angle equal to 90°.
+  title: Góc vuông (right angle)
+  text: Một __góc vuông__ là góc có số đo bằng 90°.
 
 supplementary-angles:
-  title: Supplementary angles
-  text: Two angles are __supplementary__ if they add up to 180°.
+  title: Góc bù (supplementary angles)
+  text: Hai góc __bù nhau__ nếu chúng có tổng số đo là 180°.
 
 complementary-angles:
-  title: Complementary angles
-  text: Two angles are __complementary__ if they add up to 90°.
+  title: Góc phụ (complementary angles)
+  text: Hai góc __phụ nhau__ if they add up to 90°.
 
 verticle-angles:
-  title: Vertical angles
-  text: __Vertical angles__ are pairs of opposite angles created by
-    intersecting lines. Vertical angles are always _congruent_.
+  title: Góc đối (vertical angles)
+  text: __Góc đối__ là các cặp góc đối diện nhau tạo bởi các đường giao nhau. Hai
+  góc đối luôn luôn _đồng dạng_.
 
 corresponding-angles:
-  title: Corresponding angles
-  text: __Corresponding angles__ are two angles that are in the same position
-    with respect to the transversal, but on different lines. They are always
-    congruent.
+  title: Góc đồng vị (corresponding angles)
+  text: __Góc đồng vị__ là hai góc ở cùng một phía so với đường cắt ngang hai đường nhưng
+  nằm trên hai đường khác nhau. Chúng luôn đồng dạng với nhau.
   image: corresponding-angles.svg
 
 alternate-angles:
-  title: Alternate angles
-  text: __Alternate angles__ are two angles that are on the interior of two
-    different lines, but on the opposite sides of the transversal. They are
-    always congruent.
+  title: Góc so le (alternate angles)
+  text: __Góc so le__ là hai góc nằm phía trong ở hai đường thẳng nhưng ở phía đối diện 
+  của đường cắt ngang. Chúng luôn đồng dạng với nhau.
   image: alternate-angles.svg
 
 adjacent-angles:
-  title: Anjacent angles
-  text: Two angles are __adjacent__ if they share a side and vertex. The word
-    _adjacent_ means “beside” or “next-to”.
+  title: Góc kề (adjacent angles)
+  text: Hai góc __kề nhau__ nếu chúng chia nhau một cạnh. Chữ
+    _kề_ có nghĩa là “bên cạnh” or “kế bên”.
 
 
 # ------------------------------------------------------------------------------
 # Transformations
 
 transformation:
-  title: Transformation
-  text: A __transformation__ converts one geometric shape into another. There
-    are many different types of transformations, like _reflections_ or
-    _dilations_.
+  title: Biến đổi (transformation)
+  text: Một __phép biến đổi__ chuyển một khối hình học thành một khối khác. 
+  Có nhiều phép biến đổi khác nhau, như _phản xạ_ hoặc
+    _phép dãn_.
   link: /course/transformations-and-symmetry/transformations#transformations
 
 transformation-image:
-  title: Image of a Transformation
-  text: After transforming a geometric shape, the result is called its
-    __image__. It is often denoted by adding a ’ to the end of its label.
+  title: Ảnh biến đổi
+  text: Sau khi biến đổi một khối hình học, lết quả được gọi là 
+    __ảnh__. Nó được kí hiệu bằng cách thêm dấu ’ vào cuối tên.
   link: /course/transformations-and-symmetry/transformations#transformations
 
 rigid-transformation:
-  title: Rigid transformation
-  text: A __rigid transformation__ (or __isometry__) is a transformation that
-    doesn't change the size or shape of a geometric figure.
+  title: Biến đổi tuyệt đối (rigid transformation)
+  text: Một __phép biến đổi tuyệt đối__ (hay __phép đẳng cự__) là sự biến đổi không
+  làm thay đổi kích thước hình dạng của khối hình học. 
   link: /course/transformations-and-symmetry/transformations#rigid
 
 translation:
-  title: Translation
-  text: A __translation__ is a transformation that moves a figure in a specific
-    direction.
+  title: Tịnh tiến (translation)
+  text: Phép __tịnh tiến__ là sự biến đổi làm sự di chuyển một khối hình học theo một hướng nhất định.
   link: /course/transformations-and-symmetry/transformations#translations
 
 reflection:
-  title: Reflection
-  text: A __reflection__ is a transformation that “flips” or “mirrors” a shape
-    across a line.
+  title: Phản xạ
+  text: Phép __phản xạ__ là sự biến đổi “lật” hay “soi gương” một hình qua một đường.
   link: /course/transformations-and-symmetry/transformations#reflections
 
 rotation:
-  title: Rotation
-  text: A __rotation__ is a transformation that “turns” a shape by a certain
-    angle around a fixed point.
+  title: Quay (rotation)
+  text: Phép __quay__ là một sự biến đổi “chuyển” một hình theo một góc quay cụ thể quanh
+  một điểm cố định.
   link: /course/transformations-and-symmetry/transformations#rotations
 
 glide-reflection:
-  title: Glide Reflections
-  text: A __glide reflection__ is a special kind of transformation. It is a
-    combination of a _reflection_ and a _translation_ in the same direction as
-    the axis of reflection.
+  title: Phản xạ trượt (glide reflections)
+  text: Phép __phản xạ trượt__ là một phép biến đổi đặc biệt. Nó là sự kết hợp
+  của phép _phản xạ_ phép _tịnh tiến_ cùng hướng với trục phản xạ.
   link: /course/transformations-and-symmetry/wallpaper-groups#footsteps
 
 center-of-rotation:
-  title: Center of Rotation
-  text: The __center of rotation__ is the point around which a shape is being
-    rotated.
+  title: Tâm quay (center of rotation)
+  text: __Tâm quay__ là điểm mà hình khối quay xung quanh đó. 
   link: /course/transformations-and-symmetry/transformations#rotations
 
 symmetry:
-  title: Symmetry
-  text: A figure or shape has __symmetry__, if it looks the same after being
-    transformed in some way (e.g. reflection or rotation).
+  title: Đối xứng (symmetry)
+  text: Một hình hay một khối được xem là __đối xứng__, nếu sau khi biến đổi 
+  (như phản xạ hay quay) chúng vẫn vậy.
   link: /course/transformations-and-symmetry/symmetry#symmetry
 
 reflectional-symmetry:
-  title: Reflectional Symmetry
-  text: A shape has reflectional symmetry if it looks the same after being
-    reflected.
+  title: Đối xứng phản xạ (reflectional symmetry)
+  text: Một hình được xem là đối xứng phản xạ nếu sau khi biến đổi theo phép phản xạ 
+  hình vẫn vậy. 
   image: reflectional-symmetry.svg
   link: /course/transformations-and-symmetry/symmetry#reflectional-symmetry
 
 axis-of-symmetry:
-  title: Axis of Symmetry
-  text: If a shape has reflectional symmetry, the __axis of symmetry__ is the
-    line that divides it into two equal halves.
+  title: Trục đối xứng (axis of symmetry)
+  text: Nếu một hình có hình đối xứng phản xạ , __trục đối xứng__ là đường chia hình thành
+  hai nửa bằng nhau. 
   image: reflectional-symmetry.svg
   link: /course/transformations-and-symmetry/symmetry#reflectional-symmetry
 
 rotational-symmetry:
-  title: Rotational Symmetry
-  text: A shape has rotational symmetry if it looks the same after being rotated
-    (by less than 360°).
+  title: Đối xứng quay (rotational symmetry)
+  text: Một hình đối xứng quay nếu sau khi quay (một góc nhỏ hơn 360°) 
+  thì hình đó vẫn vậy.
   image: rotational-symmetry.svg
   link: /course/transformations-and-symmetry/symmetry#rotational-symmetry
 
 order-of-symmetry:
-  title: Order of Symmetry
-  text: If a shape has rotational symmetry, the __order of symmetry__ is the
-    number of orientations in which the shape looks the same. (Or, it is the
-    number of times you can rotate the shape, before we get back to the start.)
+  title: Cấp đối xứng (order of symmetry)
+  text: Nếu một hình có đối xứng quay, __cấp đối xứng__ là số hướng hình vẫn trông như vậy.
+  (Hoặc, nó là số lần bạn có thể quay hình, trước khi quay về vị trí ban đầu.)
   link: /course/transformations-and-symmetry/symmetry#rotational-symmetry
 
 translational-symmetry:
-  title: Translational Symmetry
-  text: A repeated pattern (like a wallpaper) has __translational symmetry__ if
-    it looks the same after being translated by a specific distance.
+  title: Đối xứng tịnh tiến (translational symmetry)
+  text: Những mẫu lập đi lập lại (như giấy dán tường) là __đối xứng tịnh tiến__ nếu
+  chúng trông giống nhau sau khi được tịnh tiến một khoảng cách cố định. 
   link: /course/transformations-and-symmetry/wallpaper-groups#wallpaper-groups-1
 
 palindrome:
   title: Palindrome
-  text: A __palindrome__ is a word or number that reads the same from back to
-    front as it does from front to back. For example, 25752 and “ANNA” are both
-    palindromes.
+  text: Một __palindrome__ là một từ hay một số đọc xuôi hay ngược đều giống nhau. 
+  Ví dụ: 25752 và “ANNA” đều là palindromes.
   link: /course/transformations-and-symmetry/symmetry#palindromes
 
 group:
